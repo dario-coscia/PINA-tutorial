@@ -5,7 +5,7 @@ This repository contains the source code for the YAMC tutorial session on PINA.
 To set up the environment to reproduce the results run the following commands on the command line:
 ```bash
 git clone https://github.com/dario-coscia/YAMC-tutorial
-cd YAMC-tutorial
+cd PINA-tutorial
 bash create_env.sh
 ```
 To enter in the enviroment run the following command:
