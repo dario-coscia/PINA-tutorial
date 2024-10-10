@@ -1,4 +1,4 @@
-# YAMC-tutorial
+# PINA-tutorial
 This repository contains the source code for the YAMC tutorial session on PINA.
 
 ## Before starting...
